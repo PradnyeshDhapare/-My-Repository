@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a,b,c,d;
-    cout<<"enter four numbers "<<endl;
+    cout<<"enter"<<" 4 numbers "<<endl;
     cin>>a>>b>>c>>d;
     cout<<endl;
     if(a>b && a>c && a>d)
