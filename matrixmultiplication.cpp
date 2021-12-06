@@ -4,11 +4,11 @@ using namespace std;
 int main()
 {
     int a[10][10],b[10][10],mul[10][10],r,c,i,j,k;
-    cout<<"enter the number of row= ";
+    cout<<"enter the number of rows= ";
     cin>>r;
-    cout<<"enter the number of column= ";
+    cout<<"enter the number of columns= ";
     cin>>c;
-    cout<<"enter first matrix element=\n ";
+    cout<<"enter first matrix elements=\n ";
     for(i=0;i<r;i++)
     {
         for(j=0;j<c;j++)
